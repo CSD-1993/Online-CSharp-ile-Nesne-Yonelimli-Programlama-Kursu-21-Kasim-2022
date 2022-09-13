@@ -15,7 +15,7 @@
 + Kursun toplam ücreti (KDV dahil) 6.200 TL'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) 5.800 TL KDV dahil'dir. Kurs ücretini 2 taksitte ödeyebilirsiniz.
 
 ## Ön Koşul
-Bu programa katılabilmek için daha önce programlama ile tanışmış olmanız gerekmektedir. Derneğimizde düzenlenmekte olan _Programlamaya Giriş_ ya da denzeri bir programı tamamlamış olmalısınız.
+Bu programa katılabilmek için daha önce programlama ile tanışmış olmanız gerekmektedir. Derneğimizde düzenlenmekte olan _Programlamaya Giriş_ ya da benzeri bir programı tamamlamış olmalısınız.
 
 ## Eğitim Süresi
 Programın toplam süresi __162__ saattir. 
