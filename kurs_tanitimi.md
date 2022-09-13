@@ -25,7 +25,7 @@ Dersler __Pazartesi - Çarşamba- Cuma__ günleri saat __19-30 – 22-30__ saatl
 
 
 ## Eğitim İçeriği
-__[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-12-Mart-2022-/blob/main/kurs_icerigi.md)__
+__[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-21-Kasim-2022/blob/main/kurs_icerigi.md)__
 
 ## Eğitmen
 Kurs __Aykut TAŞDELEN__ tarafından verilmektedir. 2002 yılından beridir sektörde eğitmenlik ve danışmanlık yapan Taşdelen, kurucusu olduğu QuantumLojik isimli firmada elektronik ve gömülü sistemler alanında faaliyet göstermektedir. 7 yıl boyunca özel bir üniversitede çeşitli lisans dersleri vermiştir. Halen profesyonel yazılımcılara yönelik kurumsal eğitimler vermektedir. Şimdiye dek 12 kitabı yayınlanmış olan Taşdelen, geçmişte 7 yıl Microsoft’tan üst üste MVP ödülü ve unvanı ile taltif edilmiştir. Aynı zamanda bilişim basını mensubu olan Taşdelen geçmişte PCWorld dergisinde yazarlık yapmış, halen ortağı olduğu TeknolojiDergisi.net haber portalı ve kanalında yayıncılık faaliyetlerini de sürdürmektedir. 
