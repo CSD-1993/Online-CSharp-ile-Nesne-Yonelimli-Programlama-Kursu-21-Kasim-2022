@@ -9,7 +9,7 @@
 + Kursun toplam ücreti KDV dahil __6.200__ TL'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __5.800__ TL'dir. Kurs ücretini 2 taksitte ödeyebilirsiniz.
 
 ## Kursla ilgili bağlantılar
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-12-Mart-2022-/blob/main/kurs_tanitimi.md)
-+ [Kurs İçeriği](https://github.com/CSD-1993/Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-12-Mart-2022-/blob/main/kurs_icerigi.md)
-+ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-12-Mart-2022-/blob/main/sss.md)
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-21-Kasim-2022/blob/main/kurs_tanitimi.md)
++ [Kurs İçeriği](https://github.com/CSD-1993/Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-21-Kasim-2022/blob/main/kurs_icerigi.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-CSharp-ile-Nesne-Yonelimli-Programlama-Kursu-21-Kasim-2022/blob/main/sss.md)
 + [Kursa Kayıt]( https://us06web.zoom.us/meeting/register/tZYodemgqDMqH9MuobFy-HlqcyDaWFSRiz5Q)
