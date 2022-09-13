@@ -5,7 +5,7 @@
 + Kurs __21 Kasım 2022 Pazartesi__ günü başlayacaktır.
 + Kurs eğitmeni __Aykut TAŞDELEN__'dir.
 + Kurs gerçek zamanlıdır.
-+ Toplam kurs süresi __162__ saattir. Dersler __ Pazartesi - Çarşamba - Cuma günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
++ Toplam kurs süresi __162__ saattir. Dersler Pazartesi - Çarşamba - Cuma günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
 + Kursun toplam ücreti KDV dahil __6.200__ TL'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __5.800__ TL'dir. Kurs ücretini 2 taksitte ödeyebilirsiniz.
 
 ## Kursla ilgili bağlantılar
