@@ -12,7 +12,7 @@
 
 + Kurs süresince pek çok örnek program yazılacak olmakla beraber öğrenilen konuları pekiştirmek amacıyla sembolik bir bankacılık uygulaması da geliştirilecektir.
 
-+ Kursun toplam ücreti (KDV dahil) 6.200 TL'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) 5.800 TL KDV dahil'dir. Kurs ücretini 2 taksitte ödeyebilirsiniz.
++ Kursun toplam ücreti (KDV dahil) 6.400 TL'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) 5.800 TL KDV dahil'dir. Kurs ücretini 2 taksitte ödeyebilirsiniz.
 
 ## Ön Koşul
 Bu programa katılabilmek için daha önce programlama ile tanışmış olmanız gerekmektedir. Derneğimizde düzenlenmekte olan _Programlamaya Giriş_ ya da benzeri bir programı tamamlamış olmalısınız.
@@ -98,7 +98,7 @@ Eğitim, danışmanlık ve/veya proje geliştirdiği kurumlar arasında aşağı
 __CSharp ile Nesne Yönelimli Programlama__ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github ve dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-+ Kursun toplam ücreti 6.200 TL KDV dahil 'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) 5.800 TL KDV dahil'dir. Kurs ücretini 2 taksitte ödeyebilirsiniz.
++ Kursun toplam ücreti 6.400 TL KDV dahil 'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) 5.800 TL KDV dahil'dir. Kurs ücretini 2 taksitte ödeyebilirsiniz.
 
 ## Eğitim Programına Kayıt
 __[Katılım için önce ön kayıt yaptırmalısınız](https://us06web.zoom.us/meeting/register/tZYodemgqDMqH9MuobFy-HlqcyDaWFSRiz5Q  )__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
